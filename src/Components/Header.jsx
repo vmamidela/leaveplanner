@@ -6,7 +6,7 @@ import "bootstrap/dist/js/bootstrap.bundle";
 
 class Header extends Component {
   render() {
-    const box = { backgroundColor: "green", marginLeft: 10, marginRight: 10 };
+    //const box = { backgroundColor: "green", marginLeft: 10, marginRight: 10 };
     return (
       <div>
         <header>

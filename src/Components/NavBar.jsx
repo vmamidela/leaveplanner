@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 class NavBar extends Component {
   state = {};
 
@@ -11,15 +12,15 @@ class NavBar extends Component {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto" style={MenuMarginStyle}>
             <li class="nav-item active">
-              <a class="nav-link" href="home">
-                Home <span class="sr-only">(current)</span>
-              </a>
+              <Link class="nav-link" to="/">
+                Home
+              </Link>
             </li>
 
             <li class="nav-item dropdown">
-              <a
+              <Link
                 class="nav-link dropdown-toggle"
-                href="#"
+                to=""
                 id="navbarDropdown"
                 role="button"
                 data-toggle="dropdown"
@@ -27,28 +28,25 @@ class NavBar extends Component {
                 aria-expanded="false"
               >
                 Employee Details
-              </a>
+              </Link>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">
-                  View
-                </a>
-                <a class="dropdown-item" href="#">
+                <Link class="dropdown-item" to="/view">
+                  View/Edit/Delete
+                </Link>
+                <Link class="dropdown-item" to="/add">
                   Add
-                </a>
-                <a class="dropdown-item" href="#">
-                  Edit
-                </a>
+                </Link>
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/applyleave">
+              <Link class="nav-link" to="/leaves">
                 My Leaves
-              </a>
+              </Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Aboutus">
+              <Link class="nav-link" to="/approvals">
                 My Approvals
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
