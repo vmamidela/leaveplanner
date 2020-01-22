@@ -7,7 +7,12 @@ import Footer from "./Components/Footer";
 import Main from "./Components/Main";
 import { Route, Switch } from "react-router-dom";
 import home from "./Components/home";
-import employee from "./Components/employee";
+import {
+  viewEmployee,
+  myApprovals,
+  addEmployee,
+  myLeaves
+} from "./Components/employee";
 
 function App() {
   return (
@@ -16,10 +21,10 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/" component={home} />
-        <Route path="/view" component={employee} />
-        <Route path="/add" component={employee} />
-        <Route path="/leaves" component={employee} />
-        <Route path="/approvals" component={employee} />
+        <Route path="/view" component={viewEmployee} />
+        <Route path="/add" component={addEmployee} />
+        <Route path="/leaves" component={myLeaves} />
+        <Route path="/approvals" component={myApprovals} />
       </Switch>
       <Main />
       <Footer />

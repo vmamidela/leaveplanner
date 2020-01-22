@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "EmployeeID": 1,
+    "FirstName": "Krishna",
+    "MiddleName": "Latha",
+    "LastName": "Govind",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 2,
+    "EmployeeID": 2,
+    "FirstName": "1Krishna",
+    "MiddleName": "1Latha",
+    "LastName": "1Govind",
+    "DOB": "02-01-1981",
+    "DOJ": "02-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 3,
+    "EmployeeID": 3,
+    "FirstName": "3Krishna",
+    "MiddleName": "3Latha",
+    "LastName": "3Govind",
+    "DOB": "03-01-1980",
+    "DOJ": "03-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 4,
+    "EmployeeID": 4,
+    "FirstName": "4Krishna",
+    "MiddleName": "4Latha",
+    "LastName": "4Govind",
+    "DOB": "04-01-1980",
+    "DOJ": "04-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 5,
+    "EmployeeID": 5,
+    "FirstName": "5Krishna",
+    "MiddleName": "5Latha",
+    "LastName": "5Govind",
+    "DOB": "05-01-1980",
+    "DOJ": "05-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  }
+]

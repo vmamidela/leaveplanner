@@ -1,10 +1,31 @@
 import React, { Component } from "react";
+export const viewEmployee = () => {
+  return (
+    <div>
+      <p> EmployeeView </p>
+    </div>
+  );
+};
 
-class employee extends Component {
-  state = {};
-  render() {
-    return <h1> Employee Details</h1>;
-  }
-}
+export const myApprovals = () => {
+  return (
+    <div>
+      <p> MyApprovals </p>
+    </div>
+  );
+};
+export const addEmployee = () => {
+  return (
+    <div>
+      <p> AddEmployee </p>
+    </div>
+  );
+};
 
-export default employee;
+export const myLeaves = () => {
+  return (
+    <div>
+      <p> My leaves </p>
+    </div>
+  );
+};
