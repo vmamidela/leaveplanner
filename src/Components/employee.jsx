@@ -1,8 +1,12 @@
-import React, { Component } from "react";
+import React from "react";
+import ListEmployees from "./ListEmployees";
+import TestData from "../TestData/employeedetails";
+import Applyleave from "../Forms/ApplyLeave";
+
 export const viewEmployee = () => {
   return (
     <div>
-      <p> EmployeeView </p>
+      <ListEmployees data={TestData} />
     </div>
   );
 };
@@ -14,6 +18,7 @@ export const myApprovals = () => {
     </div>
   );
 };
+
 export const addEmployee = () => {
   return (
     <div>
@@ -26,6 +31,7 @@ export const myLeaves = () => {
   return (
     <div>
       <p> My leaves </p>
+      <Applyleave />
     </div>
   );
 };

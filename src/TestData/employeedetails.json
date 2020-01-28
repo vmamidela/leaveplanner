@@ -21,15 +21,15 @@
     }
   },
   {
-    "id": 2,
+    "id": "2",
     "EmployeeID": 2,
     "FirstName": "1Krishna",
-    "MiddleName": "1Latha",
+    "MiddleName": "kumari",
     "LastName": "1Govind",
     "DOB": "02-01-1981",
     "DOJ": "02-01-2020",
     "AllocatedAnnualLeave": {
-      "TotalLeaves": 21,
+      "TotalLeaves": 2,
       "CausualLeaves": 7,
       "SickLeaves": 5,
       "PublicHolidays": 10
