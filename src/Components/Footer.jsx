@@ -2,6 +2,17 @@ import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 class Footer extends Component {
   render() {
+    const footerstyle = {
+      flex: "auto",
+      display: "flex",
+      //color: "#ccc",
+      margin: "1em",
+      padding: "1em",
+      width: "80%",
+      //bordertop: "1px solid blue",
+      justifycontent: " center"
+    };
+
     // const MenuMarginStyle = {
     //   margin: "auto"
     // };
@@ -12,17 +23,17 @@ class Footer extends Component {
     // };
     return (
       <div>
-        <footer className="page-footer font-small blue ">
+        <footer className="page-footer font-small blue"style={footerstyle}>
           <div className="container text-center text-md-left">
             <div className="row">
               <div className="col-md-4 mx-auto">
-                <h5 className="font-weight-bold text-uppercase mt-3 mb-4">
+                <h5 className="fontweightbold text-uppercase mt-3 mb-4">
                   Product(T&C)
                 </h5>
                 <p>Content of Product Terms and Conditions</p>
               </div>
               <div className="col-md-4 mx-auto">
-                <h5 className="font-weight-bold text-uppercase mt-3 mb-4">
+                <h5 className="fontweightbold text-uppercase mt-3 mb-4">
                   Contact
                 </h5>
                 <p>Contacts of the Company</p>

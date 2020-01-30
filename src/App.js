@@ -28,8 +28,7 @@ function App() {
           <Route path="/employeEdit" component={Editfrm} />
         </Switch>
       </main>
-      {/* const Footer = ({Footer}) => (<footer>{Footer}</footer>);
-      <Footer /> */}
+      <Footer />
     </React.Fragment>
   );
 }

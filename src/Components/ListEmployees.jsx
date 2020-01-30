@@ -22,7 +22,7 @@ export default function listEmployees(props) {
         {props.data.map(row => (
           <tr>
             <td align="center">{row.EmployeeID}</td>
-            <td align="center">{row.FirstName}</td>
+             <td align="center">{row.FirstName}</td>
             <td align="center">{row.MiddleName}</td>
             <td align="center">{row.LastName}</td>
             <td align="center">{row.DOB}</td>

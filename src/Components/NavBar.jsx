@@ -1,21 +1,49 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import MenuItem from "./NavItem/MenuItem";
+// import { Link } from "react-router-dom";
+import { MenuItem } from "./NavItem/MenuItem";
 
 class NavBar extends Component {
   render() {
     const MenuMarginStyle = {
       margin: "auto"
     };
+    const dropitemlist = [
+      { name: "View/Edit/Delete", link: "view" },
+      { name: "Add", link: "add" }
+    ];
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light ">
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto" style={MenuMarginStyle}>
-            <MenuItem to="/" label="Home" />
-            <MenuItem to="/leaves" label="My Leaves" />
-            <MenuItem to="/approvals" label="My Approvals" />
+            <MenuItem to="/" label="Home" id="Home" />
+            <MenuItem to="/leaves" label="My Leaves" id="Leaves" />
+            <MenuItem to="/approvals" label="My Approvals" id="Approvals" />
+            <MenuItem
+              type="dropdown"
+              to="#"
+              id="navbarDropdownMenuLink"
+              role="button"
+              data_toggle="dropdown"
+              aria_haspopup="true"
+              aria_expanded="false"
+              label="Employee Details"
+              dropitemlist={dropitemlist}
+            />
+            {/* <div
+                className="dropdown-menu"
+                aria-labelledby="navbarDropdownMenuLink"
+              >
+                <MenuItem
+                  type="dropdown-item"
+                  to="/view"
+                  label="View/Edit/Delete"
+                  id="View"
+                />
 
-            <li className="nav-item dropdown">
+                <MenuItem type="dropdown-item" to="/add" label="Add" id="Add" />
+              </div> */}
+
+            {/* <li className="nav-item dropdown">
               <Link
                 className="nav-link dropdown-toggle"
                 to=""
@@ -28,14 +56,10 @@ class NavBar extends Component {
                 Employee Details
               </Link>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <Link className="dropdown-item" to="/view">
-                  View/Edit/Delete
-                </Link>
-                <Link className="dropdown-item" to="/add">
-                  Add
-                </Link>
+                <DropItem to="/view" label="View/Edit/Delete" />
+                <DropItem to="/add" label="Add" />
               </div>
-            </li>
+            </li> */}
           </ul>
         </div>
       </nav>

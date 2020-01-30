@@ -4,13 +4,14 @@ class EditEmployee extends Component {
     return (
       <form>
         <div className="form-group col-md-6">
-          <label for="Id">ID</label>
+          <label htmlFor="Id">ID</label>
           <input className="form-control" id="ID" name="ID" type="text" />
         </div>
 
         <div className="form-group col-md-6">
-          <label for="EmployeeID">EmployeeID</label>
+          <label htmlFor="EmployeeID">EmployeeID</label>
           <input
+            key="0"
             className="form-control"
             id="EmployeeID"
             name="EmployeeID"
@@ -19,8 +20,9 @@ class EditEmployee extends Component {
         </div>
 
         <div className="form-group col-md-6">
-          <label for="FirstName">FirstName</label>
+          <label htmlFor="FirstName">FirstName</label>
           <input
+            key="1"
             id="FirstName"
             className="form-control"
             name="FirstName"
@@ -28,8 +30,9 @@ class EditEmployee extends Component {
           />
         </div>
         <div className="form-group col-md-6">
-          <label for="LastName">LastName</label>
+          <label htmlFor="LastName">LastName</label>
           <input
+            key="2"
             id="LastName"
             className="form-control"
             name="LastName"
@@ -38,60 +41,66 @@ class EditEmployee extends Component {
         </div>
 
         <div className="form-group col-md-6">
-          <label for="DOB">DOB</label>
+          <label htmlFor="DOB">DOB</label>
           <input
-            id="LastName"
+            key="3"
+            id="DOB"
             className="form-control"
-            name="LastName"
+            name="DOB"
             type="text"
           />
         </div>
 
         <div className="form-group col-md-6 ">
-          <label for="DOJ">DOJ</label>
+          <label htmlFor="DOJ">DOJ</label>
           <input
-            id="LastName"
+            key="4"
+            id="DOJ"
             className="form-control"
-            name="LastName"
+            name="DOJ"
             type="text"
           />
         </div>
         <div className="form-group col-md-6 ">
-          <label for="TotalLeaves">TotalLeaves</label>
+          <label htmlFor="TotalLeaves">TotalLeaves</label>
           <input
-            id="LastName"
+            key="5"
+            id="TotalLeaves"
             className="form-control"
-            name="LastName"
-            type="text"
-          />
-        </div>
-
-        <div className="form-group col-md-6 ">
-          <label for="CausualLeaves">CausualLeaves</label>
-          <input
-            id="LastName"
-            className="form-control"
-            name="LastName"
+            name="TotalLeaves"
             type="text"
           />
         </div>
 
         <div className="form-group col-md-6 ">
-          <label for="SickLeaves">SickLeaves</label>
+          <label htmlFor="CausualLeaves">CausualLeaves</label>
           <input
-            id="LastName"
+            key="6"
+            id="CausualLeaves"
             className="form-control"
-            name="LastName"
+            name="CausualLeaves"
+            type="text"
+          />
+        </div>
+
+        <div className="form-group col-md-6 ">
+          <label htmlFor="SickLeaves">SickLeaves</label>
+          <input
+            key="7"
+            id="SickLeaves"
+            className="form-control"
+            name="SickLeaves"
             type="text"
           />
         </div>
 
         <div className="form-group col-md-6">
-          <label for="PublicHolidays">PublicHolidays</label>
+          <label htmlFor="PublicHolidays">PublicHolidays</label>
           <input
-            id="LastName"
+            key="8"
+            id="PublicHolidays"
             className="form-control"
-            name="LastName"
+            name="PublicHolidays"
             type="text"
           />
         </div>
