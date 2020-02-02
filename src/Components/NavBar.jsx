@@ -19,12 +19,25 @@ class NavBar extends Component {
           <ul className="navbar-nav mr-auto" style={MenuMarginStyle}>
             {MenuBar.map(menuitem => (
               <MenuItem
-                key={menuitem.label}
-                to={menuitem.to}
-                label={menuitem.label}
-                id={menuitem.label}
+                key={menuitem[Object.keys(menuitem)[0]]["label"]}
+                type={menuitem[Object.keys(menuitem)[0]]["type"]}
+                to={menuitem[Object.keys(menuitem)[0]]["to"]}
+                id={menuitem[Object.keys(menuitem)[0]]["label"]}
+                role={menuitem[Object.keys(menuitem)[0]]["role"]}
+                data_toggle={menuitem[Object.keys(menuitem)[0]]["data_toggle"]}
+                aria_haspopup={
+                  menuitem[Object.keys(menuitem)[0]]["aria_haspopup"]
+                }
+                aria_expanded={
+                  menuitem[Object.keys(menuitem)[0]]["aria_expanded"]
+                }
+                label={menuitem[Object.keys(menuitem)[0]]["label"]}
+                dropitemlist={
+                  menuitem[Object.keys(menuitem)[0]]["dropitemlist"]
+                }
               />
             ))}
+
             {/* <MenuItem to="/" label="Home" id="Home" />
             <MenuItem to="/leaves" label="My Leaves" id="Leaves" />
             <MenuItem to="/approvals" label="My Approvals" id="Approvals" />
