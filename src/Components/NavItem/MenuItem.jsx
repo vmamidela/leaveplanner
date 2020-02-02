@@ -4,7 +4,7 @@ import { Item } from "./Items";
 const CreateClass = type => {
   let menuClass;
   if (type === "dropdown") {
-    menuClass = "nav-link  dropdown-toggle";
+    menuClass =  "nav-link  dropdown-toggle";
   } else if (type === "dropdown-item") {
     menuClass = "dropdown-item";
   } else {
@@ -20,13 +20,13 @@ const DropItem = (type, dropitemlist) => {
       <div className="dropdown-menu" aria-labelledby="navbarDropdown">
         {dropitemlist.map(item => (
           <Item
-            className="nav-link dropdown-item"
+             className="nav-link dropdown-item"
             to="/view"
             label={item.name}
             id={item.link}
           />
         ))}
-      </div>
+      </div >
     );
   } else {
     return;
@@ -39,14 +39,14 @@ export const MenuItem = ({
   aria_haspopup,
   aria_expanded,
   label,
-  to,
+  to, 
   id,
   dropitemlist
 }) => {
   return (
     <li className="nav-item dropdown">
       <Item
-        className={CreateClass(type)}
+          className={CreateClass(type)}
         data_toggle={data_toggle}
         aria_haspopup={aria_haspopup}
         aria_expanded={aria_expanded}
@@ -59,7 +59,3 @@ export const MenuItem = ({
     </li>
   );
 };
-
-//  export const DropItem = ({ label, to }) => {
-//    return <Item className="dropdown-item" to={to} label={label} />;
-//  };

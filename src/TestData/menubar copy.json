@@ -1,0 +1,35 @@
+[
+  {
+    "Home": {
+      "to": "/",
+      "label": "Home"
+    }
+  },
+  {
+    "Leaves": {
+      "to": "/leaves",
+      "label": "My Leaves"
+    }
+  },
+  {
+    "Approvals": {
+      "to": "/approvals",
+      "label": "My Approvals"
+    }
+  },
+  {
+    "navbarDropdownMenuLink": {
+      "to": "#",
+      "label": "Employee Details",
+      "type": "dropdown",
+      "role": "button",
+      "data_toggle": "dropdown",
+      "aria_haspopup": "true",
+      "aria_expanded": "false",
+      "dropitemlist": [
+        { "name": "View/Edit/Delete", "link": "view" },
+        { "name": "Add", "link": "add" }
+      ]
+    }
+  }
+]
