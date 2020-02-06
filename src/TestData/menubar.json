@@ -18,6 +18,12 @@
     }
   },
   {
+    "test": {
+      "to": "/approvals",
+      "label": "test"
+    }
+  },
+  {
     "navbarDropdownMenuLink1": {
       "to": "#",
       "label": "Employee Details",

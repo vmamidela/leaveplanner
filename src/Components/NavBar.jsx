@@ -19,10 +19,11 @@ class NavBar extends Component {
           <ul className="navbar-nav mr-auto" style={MenuMarginStyle}>
             {MenuBar.map(menuitem => (
               <MenuItem
-                key={menuitem[Object.keys(menuitem)[0]]["label"]}
+                key={Object.keys(menuitem)[0]}
+                id={Object.keys(menuitem)[0]}
+                label={menuitem[Object.keys(menuitem)[0]]["label"]}
                 type={menuitem[Object.keys(menuitem)[0]]["type"]}
                 to={menuitem[Object.keys(menuitem)[0]]["to"]}
-                id={menuitem[Object.keys(menuitem)[0]]["label"]}
                 role={menuitem[Object.keys(menuitem)[0]]["role"]}
                 data_toggle={menuitem[Object.keys(menuitem)[0]]["data_toggle"]}
                 aria_haspopup={
@@ -31,7 +32,6 @@ class NavBar extends Component {
                 aria_expanded={
                   menuitem[Object.keys(menuitem)[0]]["aria_expanded"]
                 }
-                label={menuitem[Object.keys(menuitem)[0]]["label"]}
                 dropitemlist={
                   menuitem[Object.keys(menuitem)[0]]["dropitemlist"]
                 }
