@@ -103,5 +103,2425 @@
       "WorkFromHome": 0,
       "PlannedLeaves": 0
     }
+  },
+
+  {
+    "id": 6,
+    "EmployeeID": 6,
+    "FirstName": "Anitha",
+    "MiddleName": "",
+    "LastName": "stat",
+    "DOB": "01-01-1981",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+
+  {
+    "id": 7,
+    "EmployeeID": 7,
+    "FirstName": "vishnu",
+    "MiddleName": "hh",
+    "LastName": "ind",
+    "DOB": "01-01-1980",
+    "DOJ": "02-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+
+  {
+    "id": 8,
+    "EmployeeID": 8,
+    "FirstName": "varsha",
+    "MiddleName": "jain",
+    "LastName": "huyj",
+    "DOB": "03-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 9,
+    "EmployeeID": 9,
+    "FirstName": "pavani",
+    "MiddleName": "Latha",
+    "LastName": "khjgj",
+    "DOB": "01-05-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 10,
+    "EmployeeID": 10,
+    "FirstName": "Maha",
+    "MiddleName": "Lakshmi",
+    "LastName": "jasti",
+    "DOB": "01-01-1983",
+    "DOJ": "07-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 12,
+    "EmployeeID": 12,
+    "FirstName": "Hima",
+    "MiddleName": "bindu",
+    "LastName": "gui",
+    "DOB": "01-11-1980",
+    "DOJ": "01-02-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 13,
+    "EmployeeID": 13,
+    "FirstName": "jaswanth",
+    "MiddleName": "sing",
+    "LastName": "hjh",
+    "DOB": "21-01-1986",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 14,
+    "EmployeeID": 14,
+    "FirstName": "manish",
+    "MiddleName": "",
+    "LastName": "gfhg",
+    "DOB": "01-12-1992",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+
+  {
+    "id": 15,
+    "EmployeeID": 15,
+    "FirstName": "Saajan",
+    "MiddleName": "ghfhg",
+    "LastName": "uy",
+    "DOB": "01-01-1985",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 16,
+    "EmployeeID": 16,
+    "FirstName": "kumar",
+    "MiddleName": "",
+    "LastName": "hg",
+    "DOB": "01-11-1981",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 17,
+    "EmployeeID": 17,
+    "FirstName": "Janu",
+    "MiddleName": "Latha",
+    "LastName": "par",
+    "DOB": "28-10-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 18,
+    "EmployeeID": 18,
+    "FirstName": "pandit",
+    "MiddleName": "",
+    "LastName": "trfy",
+    "DOB": "15-05-1982",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 19,
+    "EmployeeID": 19,
+    "FirstName": "faraq",
+    "MiddleName": "",
+    "LastName": "ity",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 20,
+    "EmployeeID": 20,
+    "FirstName": "swathi",
+    "MiddleName": "",
+    "LastName": "ytyu",
+    "DOB": "08-07-1981",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 21,
+    "EmployeeID": 21,
+    "FirstName": "lacv",
+    "MiddleName": "hgvfhg",
+    "LastName": "hj",
+    "DOB": "12-09-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 22,
+    "EmployeeID": 22,
+    "FirstName": "yash",
+    "MiddleName": "",
+    "LastName": "ind",
+    "DOB": "04-01-1980",
+    "DOJ": "01-02-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 23,
+    "EmployeeID": 23,
+    "FirstName": "uman",
+    "MiddleName": "",
+    "LastName": "iui",
+    "DOB": "01-11-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 24,
+    "EmployeeID": 24,
+    "FirstName": "ravi",
+    "MiddleName": "",
+    "LastName": "jh",
+    "DOB": "06-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 25,
+    "EmployeeID": 25,
+    "FirstName": "qrie",
+    "MiddleName": "",
+    "LastName": "bnbvhg",
+    "DOB": "24-08-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 26,
+    "EmployeeID": 26,
+    "FirstName": "unar",
+    "MiddleName": "",
+    "LastName": "oui",
+    "DOB": "01-01-1980",
+    "DOJ": "24-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 27,
+    "EmployeeID": 27,
+    "FirstName": "mawe",
+    "MiddleName": "gchg",
+    "LastName": "pi",
+    "DOB": "06-01-1982",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 29,
+    "EmployeeID": 29,
+    "FirstName": "Jai",
+    "MiddleName": "Sing",
+    "LastName": "kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 30,
+    "EmployeeID": 30,
+    "FirstName": "30Jai",
+    "MiddleName": "30Sing",
+    "LastName": "30kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 31,
+    "EmployeeID": 31,
+    "FirstName": "31Jai",
+    "MiddleName": "31Sing",
+    "LastName": "paan",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 32,
+    "EmployeeID": 32,
+    "FirstName": "32Jai",
+    "MiddleName": "32Sing",
+    "LastName": "32kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 33,
+    "EmployeeID": 33,
+    "FirstName": "33Jai",
+    "MiddleName": "33Sing",
+    "LastName": "33kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 34,
+    "EmployeeID": 34,
+    "FirstName": "34Jai",
+    "MiddleName": "",
+    "LastName": "34kumma",
+    "DOB": "22-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 35,
+    "EmployeeID": 35,
+    "FirstName": "35Jai",
+    "MiddleName": "35Sing",
+    "LastName": "35kumma",
+    "DOB": "01-06-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 36,
+    "EmployeeID": 36,
+    "FirstName": "36Jai",
+    "MiddleName": "36Sing",
+    "LastName": "36kumma",
+    "DOB": "01-06-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 37,
+    "EmployeeID": 37,
+    "FirstName": "37Jai",
+    "MiddleName": "37Sing",
+    "LastName": "37kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 38,
+    "EmployeeID": 38,
+    "FirstName": "38Jai",
+    "MiddleName": "38Sing",
+    "LastName": "38kumma",
+    "DOB": "23-09-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 39,
+    "EmployeeID": 39,
+    "FirstName": "39Jai",
+    "MiddleName": "39Sing",
+    "LastName": "39kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "023-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 40,
+    "EmployeeID": 40,
+    "FirstName": "40Jai",
+    "MiddleName": "40Sing",
+    "LastName": "40kumma",
+    "DOB": "02-12-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 41,
+    "EmployeeID": 41,
+    "FirstName": "41Jai",
+    "MiddleName": "41Sing",
+    "LastName": "41kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 42,
+    "EmployeeID": 42,
+    "FirstName": "42Jai",
+    "MiddleName": "42Sing",
+    "LastName": "42kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+
+  {
+    "id": 45,
+    "EmployeeID": 45,
+    "FirstName": "45Jai",
+    "MiddleName": "45Sing",
+    "LastName": "45kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 46,
+    "EmployeeID": 46,
+    "FirstName": "46Jai",
+    "MiddleName": "46Sing",
+    "LastName": "46kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 47,
+    "EmployeeID": 47,
+    "FirstName": "47Jai",
+    "MiddleName": "47Sing",
+    "LastName": "47kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 48,
+    "EmployeeID": 48,
+    "FirstName": "48Jai",
+    "MiddleName": "48Sing",
+    "LastName": "48kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 49,
+    "EmployeeID": 49,
+    "FirstName": "49Jai",
+    "MiddleName": "49Sing",
+    "LastName": "49kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 50,
+    "EmployeeID": 50,
+    "FirstName": "50Jai",
+    "MiddleName": "50Sing",
+    "LastName": "50kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 51,
+    "EmployeeID": 51,
+    "FirstName": "51Jai",
+    "MiddleName": "51Sing",
+    "LastName": "51kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 52,
+    "EmployeeID": 52,
+    "FirstName": "52Jai",
+    "MiddleName": "52Sing",
+    "LastName": "52kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 53,
+    "EmployeeID": 53,
+    "FirstName": "53Jai",
+    "MiddleName": "53Sing",
+    "LastName": "53kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 54,
+    "EmployeeID": 54,
+    "FirstName": "54Jai",
+    "MiddleName": "54Sing",
+    "LastName": "54kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 55,
+    "EmployeeID": 55,
+    "FirstName": "55Jai",
+    "MiddleName": "55Sing",
+    "LastName": "55kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 56,
+    "EmployeeID": 56,
+    "FirstName": "56Jai",
+    "MiddleName": "56Sing",
+    "LastName": "56kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 57,
+    "EmployeeID": 57,
+    "FirstName": "57Jai",
+    "MiddleName": "57Sing",
+    "LastName": "57kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 58,
+    "EmployeeID": 58,
+    "FirstName": "58Jai",
+    "MiddleName": "58Sing",
+    "LastName": "58kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 59,
+    "EmployeeID": 59,
+    "FirstName": "59Jai",
+    "MiddleName": "59Sing",
+    "LastName": "59kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 60,
+    "EmployeeID": 60,
+    "FirstName": "60Jai",
+    "MiddleName": "60Sing",
+    "LastName": "60kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 61,
+    "EmployeeID": 61,
+    "FirstName": "61Jai",
+    "MiddleName": "61Sing",
+    "LastName": "61kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 62,
+    "EmployeeID": 62,
+    "FirstName": "62Jai",
+    "MiddleName": "62Sing",
+    "LastName": "62kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 63,
+    "EmployeeID": 63,
+    "FirstName": "63Jai",
+    "MiddleName": "63Sing",
+    "LastName": "63kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 64,
+    "EmployeeID": 64,
+    "FirstName": "64Jai",
+    "MiddleName": "64Sing",
+    "LastName": "64kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 65,
+    "EmployeeID": 65,
+    "FirstName": "65Jai",
+    "MiddleName": "65Sing",
+    "LastName": "65kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 66,
+    "EmployeeID": 66,
+    "FirstName": "66Jai",
+    "MiddleName": "66Sing",
+    "LastName": "66kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 67,
+    "EmployeeID": 67,
+    "FirstName": "67Jai",
+    "MiddleName": "67Sing",
+    "LastName": "67kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 68,
+    "EmployeeID": 68,
+    "FirstName": "68Jai",
+    "MiddleName": "68Sing",
+    "LastName": "68kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 69,
+    "EmployeeID": 69,
+    "FirstName": "69Jai",
+    "MiddleName": "69Sing",
+    "LastName": "69kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 70,
+    "EmployeeID": 70,
+    "FirstName": "70Jai",
+    "MiddleName": "70Sing",
+    "LastName": "70kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 71,
+    "EmployeeID": 71,
+    "FirstName": "71Jai",
+    "MiddleName": "71Sing",
+    "LastName": "71kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 72,
+    "EmployeeID": 72,
+    "FirstName": "72Jai",
+    "MiddleName": "72Sing",
+    "LastName": "72kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 73,
+    "EmployeeID": 73,
+    "FirstName": "73Jai",
+    "MiddleName": "73Sing",
+    "LastName": "73kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 74,
+    "EmployeeID": 74,
+    "FirstName": "74Jai",
+    "MiddleName": "74Sing",
+    "LastName": "74kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 75,
+    "EmployeeID": 75,
+    "FirstName": "75Jai",
+    "MiddleName": "75Sing",
+    "LastName": "75kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 76,
+    "EmployeeID": 76,
+    "FirstName": "76Jai",
+    "MiddleName": "76Sing",
+    "LastName": "76kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 77,
+    "EmployeeID": 77,
+    "FirstName": "77Jai",
+    "MiddleName": "77Sing",
+    "LastName": "77kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 78,
+    "EmployeeID": 78,
+    "FirstName": "78Jai",
+    "MiddleName": "78Sing",
+    "LastName": "78kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 79,
+    "EmployeeID": 79,
+    "FirstName": "79Jai",
+    "MiddleName": "79Sing",
+    "LastName": "79kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 80,
+    "EmployeeID": 80,
+    "FirstName": "80Jai",
+    "MiddleName": "80Sing",
+    "LastName": "80kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 81,
+    "EmployeeID": 81,
+    "FirstName": "81Jai",
+    "MiddleName": "81Sing",
+    "LastName": "81kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 82,
+    "EmployeeID": 82,
+    "FirstName": "82Jai",
+    "MiddleName": "82Sing",
+    "LastName": "82kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 83,
+    "EmployeeID": 83,
+    "FirstName": "83Jai",
+    "MiddleName": "83Sing",
+    "LastName": "83kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 84,
+    "EmployeeID": 84,
+    "FirstName": "84Jai",
+    "MiddleName": "84Sing",
+    "LastName": "84kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 85,
+    "EmployeeID": 85,
+    "FirstName": "85Jai",
+    "MiddleName": "85Sing",
+    "LastName": "85kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 86,
+    "EmployeeID": 86,
+    "FirstName": "86Jai",
+    "MiddleName": "86Sing",
+    "LastName": "86kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 87,
+    "EmployeeID": 87,
+    "FirstName": "87Jai",
+    "MiddleName": "87Sing",
+    "LastName": "87kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 88,
+    "EmployeeID": 88,
+    "FirstName": "88Jai",
+    "MiddleName": "88Sing",
+    "LastName": "88kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 89,
+    "EmployeeID": 89,
+    "FirstName": "89Jai",
+    "MiddleName": "89Sing",
+    "LastName": "89kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 90,
+    "EmployeeID": 90,
+    "FirstName": "90Jai",
+    "MiddleName": "90Sing",
+    "LastName": "90kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 91,
+    "EmployeeID": 91,
+    "FirstName": "91Jai",
+    "MiddleName": "91Sing",
+    "LastName": "91kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 92,
+    "EmployeeID": 92,
+    "FirstName": "92Jai",
+    "MiddleName": "92Sing",
+    "LastName": "92kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 93,
+    "EmployeeID": 93,
+    "FirstName": "93Jai",
+    "MiddleName": "93Sing",
+    "LastName": "93kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 94,
+    "EmployeeID": 94,
+    "FirstName": "94Jai",
+    "MiddleName": "94Sing",
+    "LastName": "94kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 95,
+    "EmployeeID": 95,
+    "FirstName": "95Jai",
+    "MiddleName": "95Sing",
+    "LastName": "95kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 96,
+    "EmployeeID": 96,
+    "FirstName": "96Jai",
+    "MiddleName": "96Sing",
+    "LastName": "96kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 97,
+    "EmployeeID": 97,
+    "FirstName": "97Jai",
+    "MiddleName": "97Sing",
+    "LastName": "97kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 98,
+    "EmployeeID": 98,
+    "FirstName": "98Jai",
+    "MiddleName": "98Sing",
+    "LastName": "98kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 99,
+    "EmployeeID": 99,
+    "FirstName": "99Jai",
+    "MiddleName": "99Sing",
+    "LastName": "99kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 101,
+    "EmployeeID": 101,
+    "FirstName": "101Jai",
+    "MiddleName": "101Sing",
+    "LastName": "101kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 102,
+    "EmployeeID": 102,
+    "FirstName": "102Jai",
+    "MiddleName": "102Sing",
+    "LastName": "102kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 103,
+    "EmployeeID": 103,
+    "FirstName": "103Jai",
+    "MiddleName": "103Sing",
+    "LastName": "103kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 104,
+    "EmployeeID": 104,
+    "FirstName": "104Jai",
+    "MiddleName": "104Sing",
+    "LastName": "104kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 105,
+    "EmployeeID": 105,
+    "FirstName": "105Jai",
+    "MiddleName": "105Sing",
+    "LastName": "105kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 106,
+    "EmployeeID": 106,
+    "FirstName": "106Jai",
+    "MiddleName": "106Sing",
+    "LastName": "106kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 107,
+    "EmployeeID": 107,
+    "FirstName": "107Jai",
+    "MiddleName": "107Sing",
+    "LastName": "107kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 108,
+    "EmployeeID": 108,
+    "FirstName": "108Jai",
+    "MiddleName": "108Sing",
+    "LastName": "108kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 109,
+    "EmployeeID": 109,
+    "FirstName": "109Jai",
+    "MiddleName": "109Sing",
+    "LastName": "109kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 110,
+    "EmployeeID": 110,
+    "FirstName": "110Jai",
+    "MiddleName": "110Sing",
+    "LastName": "110kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 111,
+    "EmployeeID": 111,
+    "FirstName": "111Jai",
+    "MiddleName": "111Sing",
+    "LastName": "111kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 112,
+    "EmployeeID": 112,
+    "FirstName": "112Jai",
+    "MiddleName": "112Sing",
+    "LastName": "112kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 113,
+    "EmployeeID": 113,
+    "FirstName": "113Jai",
+    "MiddleName": "113Sing",
+    "LastName": "113kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 114,
+    "EmployeeID": 114,
+    "FirstName": "114Jai",
+    "MiddleName": "114Sing",
+    "LastName": "114kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 115,
+    "EmployeeID": 115,
+    "FirstName": "115Jai",
+    "MiddleName": "115Sing",
+    "LastName": "115kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 116,
+    "EmployeeID": 116,
+    "FirstName": "116Jai",
+    "MiddleName": "116Sing",
+    "LastName": "116kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 117,
+    "EmployeeID": 117,
+    "FirstName": "117Jai",
+    "MiddleName": "117Sing",
+    "LastName": "117kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 118,
+    "EmployeeID": 118,
+    "FirstName": "118Jai",
+    "MiddleName": "118Sing",
+    "LastName": "118kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 119,
+    "EmployeeID": 119,
+    "FirstName": "119Jai",
+    "MiddleName": "119Sing",
+    "LastName": "119kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 120,
+    "EmployeeID": 120,
+    "FirstName": "120Jai",
+    "MiddleName": "120Sing",
+    "LastName": "120kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 121,
+    "EmployeeID": 121,
+    "FirstName": "121Jai",
+    "MiddleName": "121Sing",
+    "LastName": "121kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 122,
+    "EmployeeID": 122,
+    "FirstName": "122Jai",
+    "MiddleName": "122Sing",
+    "LastName": "122kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 123,
+    "EmployeeID": 123,
+    "FirstName": "123Jai",
+    "MiddleName": "123Sing",
+    "LastName": "123kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 124,
+    "EmployeeID": 124,
+    "FirstName": "124Jai",
+    "MiddleName": "124Sing",
+    "LastName": "124kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
+  },
+  {
+    "id": 125,
+    "EmployeeID": 125,
+    "FirstName": "125Jai",
+    "MiddleName": "125Sing",
+    "LastName": "125kumma",
+    "DOB": "01-01-1980",
+    "DOJ": "01-01-2020",
+    "AllocatedAnnualLeave": {
+      "TotalLeaves": 21,
+      "CausualLeaves": 7,
+      "SickLeaves": 5,
+      "PublicHolidays": 10
+    },
+    "UsedLeaves": {
+      "CausualLeaves": 0,
+      "SickLeaves": 0,
+      "WorkFromHome": 0,
+      "PlannedLeaves": 0
+    }
   }
 ]

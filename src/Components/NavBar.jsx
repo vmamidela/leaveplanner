@@ -8,17 +8,18 @@ class NavBar extends Component {
     const MenuMarginStyle = {
       margin: "auto"
     };
-    const dropitemlist = [
-      { name: "View/Edit/Delete", link: "view" },
-      { name: "Add", link: "add" }
-    ];
+    // const dropitemlist = [
+    //   { name: "View/Edit/Delete", link: "view" },
+    //   { name: "Add", link: "add" }
+    // ];
 
     return (
+      //<div id = "navbar"
       <nav className="navbar navbar-expand-lg navbar-light bg-light ">
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto" style={MenuMarginStyle}>
             {MenuBar.map(menuitem => (
-              <MenuItem
+              <MenuItem 
                 key={Object.keys(menuitem)[0]}
                 id={Object.keys(menuitem)[0]}
                 label={menuitem[Object.keys(menuitem)[0]]["label"]}
@@ -55,8 +56,10 @@ class NavBar extends Component {
           </ul>
         </div>
       </nav>
+      //</div>
     );
   }
+  
 }
 
 export default NavBar;

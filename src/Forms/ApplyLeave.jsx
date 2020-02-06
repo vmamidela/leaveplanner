@@ -12,14 +12,14 @@ class Applyleave extends Component {
   };
   render() {
     return (
-      <Form>
+      <Form align = "center">
         <p>From Date:</p>
         <input type="text" onChange={this.myChangeHandler} />
         <p>To Date:</p>
         <input type="text" onChange={this.myChangeHandler} />
         <p>Reason:</p>
-        <input type="text" onChange={this.myChangeHandler} /><br></br>
-        <button variant="secondary">Submit</button>
+        <input type="text" onChange={this.myChangeHandler} /><br></br><br></br>
+        <button variant="secondary"> Submit </button>
       </Form>
     );
   }

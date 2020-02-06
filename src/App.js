@@ -14,20 +14,25 @@ import {
 } from "./Components/Employee";
 
 function App() {
+  const mainstyle = { paddingbottom: "100px", overflow: "auto" };
   return (
     <React.Fragment>
-      <Header />
-      <NavBar />
-      <main role="main" className="container">
-        <Switch>
-          <Route exact path="/" component={Homefrm} />
-          <Route path="/view" component={viewEmployee} />
-          <Route path="/add" component={addEmployee} />
-          <Route path="/leaves" component={myLeaves} />
-          <Route path="/approvals" component={myApprovals} />
-          <Route path="/employeEdit" component={Editfrm} />
-        </Switch>
-      </main>
+      <div id="main">
+        <Header />
+        <NavBar />
+        <div id="content">
+          <main role="main" className="container" style={mainstyle}>
+            <Switch>
+              <Route exact path="/" component={Homefrm} />
+              <Route path="/view" component={viewEmployee} />
+              <Route path="/add" component={addEmployee} />
+              <Route path="/leaves" component={myLeaves} />
+              <Route path="/approvals" component={myApprovals} />
+              <Route path="/employeEdit" component={Editfrm} />
+            </Switch>
+          </main>
+        </div>
+      </div>
       <Footer />
     </React.Fragment>
   );

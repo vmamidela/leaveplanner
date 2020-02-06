@@ -17,12 +17,7 @@
       "label": "My Approvals"
     }
   },
-  {
-    "test": {
-      "to": "/approvals",
-      "label": "test"
-    }
-  },
+  
   {
     "navbarDropdownMenuLink1": {
       "to": "#",

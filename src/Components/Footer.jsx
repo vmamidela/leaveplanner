@@ -3,14 +3,31 @@ import "bootstrap/dist/css/bootstrap.css";
 class Footer extends Component {
   render() {
     const footerstyle = {
-      flex: "auto",
-      display: "flex",
-      //color: "#ccc",
-      margin: "1em",
-      padding: "1em",
-      width: "80%",
-      //bordertop: "1px solid blue",
-      justifycontent: " center"
+      // flex: "auto",
+      // display: "flex",
+       color: "#ccc",
+      // //   // margin: "1em",
+      // // bottompadding: "75px",
+      // position: "fixed",
+      // bottom: "0",
+       width: "100%",
+      // //paddingtop:"80px",
+      margintop: "-100px",
+       clear: "both",
+
+      // //   //bordertop: "1px solid blue",
+      // //   justifycontent: " center"
+      // //   //verticalalign:"bottom",
+      // // bordertop: "80px solid #15893d",
+       textalign: " center",
+      // // display:"inline-block",
+       height: "100px",
+       position: "fixed",
+      //background:" #0c0c0c",
+      // lineheight:" 80px",
+       display: "grid",
+       //gridtemplaterows: "auto 1fr auto",
+    //  gridtemplatecolumns: "100%"
     };
 
     // const MenuMarginStyle = {
@@ -22,8 +39,12 @@ class Footer extends Component {
     //   padding: "0px 400px"
     // };
     return (
-      <div>
-        <footer className="page-footer font-small blue"style={footerstyle}>
+      <div id = "footer">
+        <footer
+          className="page-footer font-small blue"
+          style={footerstyle}
+          fixedfooter
+        >
           <div className="container text-center text-md-left">
             <div className="row">
               <div className="col-md-4 mx-auto">

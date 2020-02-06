@@ -14,7 +14,7 @@ const CreateClass = type => {
 };
 
 const DropItem = (type, dropitemlist) => {
-  let DropItemType;
+  //let DropItemType;
   if (type === "dropdown") {
     return (
       <div className="dropdown-menu" aria-labelledby="navbarDropdown">
